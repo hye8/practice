@@ -9,6 +9,8 @@ def main():
 
     print("Hi my name is the Unbeatable!!!")
 
+    print("Cats and Dogs are the same")
+
     return 0
 
 
